@@ -1,0 +1,16 @@
+body {
+	font-family: "Arial", Sans-serif;
+}
+
+.content ul ul {
+	font-size: 20px;
+}
+
+ul li {
+	font-size: 18px;
+	margin-left: 4em;
+}
+
+.hidden {
+	display: none;
+}
